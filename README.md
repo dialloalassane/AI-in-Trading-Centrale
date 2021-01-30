@@ -1,1 +1,6 @@
-Paper in AI in portfolio management and Trading 
+Author:
+
+
+- Selim Amrouni selimamrouni
+- Aymeric Moulin
+ - Philippe Mizrahi pcamizrahi
